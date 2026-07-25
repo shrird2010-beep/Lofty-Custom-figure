@@ -1,7 +1,8 @@
 # Overview
 
-The Whyt Custom Loftyo Figure is a fully custom figure designed after lofty (loft studios ) using CAD modeling from Onshape.Unlike vinyl figures, this Whyt loftyo figure features a cool, detachable top hat with joints, making it more customizable. For me, it represents a precise, physical display piece that showcases advanced mechanical design and character styling.
-Problem with Standard Figures
+The Whyt Custom Loftyo Figure is a fully custom figure designed after lofty (loft studios ) using CAD modeling from Onshape.Unlike vinyl figures, this Whyt loftyo figure features a cool, detachable top hat with joints, making it more customizable. For me, it represents a precise, physical display piece that showcases advanced mechanical design and character styling. Original Lofty link: [https://www.youtube.com/watch?v=MX8UKE6EGho](https://www.youtube.com/watch?v=LgVvuNsjvqg)
+
+# Problem with Standard Figures
 ## Most affordable consumer figures are:
 - Fixed assembly: Molded as a single solid piece, making it impossible to adapt or swap accessories.
 - Flimsy or brittle: Weak layer orientation leads to snapped limbs or loose accessories.
@@ -9,11 +10,25 @@ Problem with Standard Figures
 I wanted a highly detailed character model that is:
 - Modular: Features a perfectly fitted, swappable hat accessory and sliding face.
 - Durable: Strong enough to handle assembly and repositioning without breaking.
-- Affordable: Entirely reproducible using less than a single spool of filament (~$25).
+- Affordable: Entirely reproducible using less than a single spool of filament (~$5).
 ## Key Features
 - Detachable Hat designed to snap onto the figure's head.
-- Hardware Free Friction Mates Uses precise physical tolerances so the limbs and hat lock together without needing glue.
+
+| Pictures  |
+|-----------|
+![Screenshot](Screenshot%202026-07-25%20132849.png)
+- Hardware Free Friction Mates Uses precise physical tolerances so the limbs and hat lock together with some assitance of glue.
+
+| Pictures|
+|-----------|
+![Screenshot](Screenshot%202026-07-25%20133007.png)
+![Screenshot](Screenshot%202026-07-25%20133032.png)
 - Sliding changeable supportable faces just like the lofty figures, I want it to have its face changeable to add more expressions.
+
+| Pictures|
+|-----------|
+![Screenshot](Screenshot%202026-07-25%20133232.png)
+![Screenshot](Screenshot%202026-07-25%20133240.png)
 
 ## Assembly directions
 - Prepare the Core: Remove minimal support material from the Onshape-dimensioned torso and head sockets.
@@ -24,6 +39,11 @@ I wanted a highly detailed character model that is:
 ## Design
 Advanced Onshape CAD Features
 The problem in the beginning was just trying to put everything too scale. It was hard figuring out how mesh items work in onshape and harder to get all the parts to the right scale. I planned for this to be a quick build but it took longer than expected.
+## Bill of Materials (BOM)
+| Item | Cost |
+|------|------|
+| Money for shipping, that's all I need | $10.00 |
+| **Total** | **$10.00** |
 
 ## What I Learned
 - Designing Load-Bearing Interlocking Joints: Creating functional press-fits that hold position without hardware.
