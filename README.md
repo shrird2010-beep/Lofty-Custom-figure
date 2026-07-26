@@ -2,6 +2,8 @@
 
 The Whyt Custom Loftyo Figure is a fully custom figure designed after lofty (loft studios ) using CAD modeling from Onshape.Unlike vinyl figures, this Whyt loftyo figure features a cool, detachable top hat with joints, making it more customizable. For me, it represents a precise, physical display piece that showcases advanced mechanical design and character styling. Original Lofty link: [https://www.youtube.com/watch?v=MX8UKE6EGho](https://www.youtube.com/watch?v=LgVvuNsjvqg)
 
+Onshape Link: https://cad.onshape.com/documents/b4f99cbf8d934c1c4390866e/w/18eb70c59875d06525b4beed/e/d60807960231cbf6524827fd?renderMode=0&uiState=6a655497cb732d4668fa087e
+
 # Problem with Standard Figures
 ## Most affordable consumer figures are:
 - Fixed assembly: Molded as a single solid piece, making it impossible to adapt or swap accessories.
