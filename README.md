@@ -44,8 +44,8 @@ The problem in the beginning was just trying to put everything too scale. It was
 ## Bill of Materials (BOM)
 | Item | Cost |
 |------|------|
-| Money for shipping, that's all I need | $10.00 |
-| **Total** | **$10.00** |
+| Printing legion provides shipping, nothing to pay | $0.00 |
+| **Total** | **$0.00** |
 
 ## What I Learned
 - Designing Load-Bearing Interlocking Joints: Creating functional press-fits that hold position without hardware.
