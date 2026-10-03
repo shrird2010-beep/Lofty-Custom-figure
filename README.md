@@ -29,8 +29,8 @@ I wanted a highly detailed character model that is:
 
 | Pictures|
 |-----------|
-![Screenshot](Screenshot%202026-07-25%20133232.png)
-![Screenshot](Screenshot%202026-07-25%20133240.png)
+<img src= "Images/Screenshot%202026-07-25%20133232.png" alt= "3rd"/>
+<img src= "Images/Screenshot%202026-07-25%20133240.png" alt= "3rd"/>
 
 ## Assembly directions
 - Prepare the Core: Remove minimal support material from the Onshape-dimensioned torso and head sockets.
