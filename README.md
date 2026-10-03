@@ -18,13 +18,13 @@ I wanted a highly detailed character model that is:
 
 | Pictures  |
 |-----------|
-![Screenshot](Screenshot%202026-07-25%20132849.png)
+<img src= "Images/Screenshot%202026-07-25%20132849.png" alt= "firsti"/>
 - Hardware Free Friction Mates Uses precise physical tolerances so the limbs and hat lock together with some assitance of glue.
 
 | Pictures|
 |-----------|
-![Screenshot](Screenshot%202026-07-25%20133007.png)
-![Screenshot](Screenshot%202026-07-25%20133032.png)
+<img src= "Images/Screenshot%202026-07-25%20133007.png" alt= "2nd"/>
+<img src= "Images/Screenshot%202026-07-25%20133032.png" alt= "3rd"/>
 - Sliding changeable supportable faces just like the lofty figures, I want it to have its face changeable to add more expressions.
 
 | Pictures|
