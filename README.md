@@ -50,7 +50,7 @@ The problem in the beginning was just trying to put everything too scale. It was
 ## What I Learned
 - Designing Load-Bearing Interlocking Joints: Creating functional press-fits that hold position without hardware.
 - Balancing Aesthetics with Printability: Modifying organic character shapes to make sure they print properly (This was especially learned when trying to make the hat look somewhat natural)
-## Why This Project Deserves a Grant
+## Why This Project Should Be Accepted
 The Whyt Custom Loftyo Figure is:
 - A fully custom hardware and modeling project (along with some help from Lofty's files).
 - Built entirely with custom-modeled components, 
